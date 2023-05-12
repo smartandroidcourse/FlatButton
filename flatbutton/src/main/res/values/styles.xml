@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="RaiflatButtonPrimaryStyle" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="colorControlNormal">?attr/colorPrimary</item>
+    </style>
+    <style name="RaiflatButtonNoRippleStyle" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:colorControlHighlight">@android:color/black</item>
+    </style>
+</resources>
