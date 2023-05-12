@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.FlatButton" parent="Base.Theme.FlatButton" />
+
+    <style name="RaiflatButtonPrimaryStyle" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:colorControlNormal">?attr/colorPrimary</item>
+    </style>
+
 </resources>

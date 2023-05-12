@@ -1,13 +1,12 @@
 package colorsfx.smart.android.courses.flatbutton;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-FlatButton noRippleButton;
+    FlatButton noRippleButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
